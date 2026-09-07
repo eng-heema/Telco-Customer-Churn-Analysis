@@ -61,18 +61,6 @@ Identifies high-risk customer segments and provides a customer-level view for re
 * Consider targeted support or retention offers for high-risk customers.
 * Further investigate the relationship between Fiber optic service and churn.
 
-## Project Structure
-
-```text
-Telco-Customer-Churn-Analysis/
-│
-├── PowerBI/
-├── Python/
-├── SQL/
-├── Screenshots/
-└── README.md
-```
-
 ## Note
 
 The high-risk segment is a rule-based segmentation, not a machine-learning prediction model.
