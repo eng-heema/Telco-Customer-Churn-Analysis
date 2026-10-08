@@ -45,3 +45,4 @@ The Power BI dashboard contains three pages:
 ## Note
 
 The high-risk segment is a rule-based segmentation, not a machine-learning prediction model.
+
