@@ -42,12 +42,6 @@ The Power BI dashboard contains three pages:
 - Offer targeted support or retention offers to the high-risk segment first, since it concentrates over a third of churn in about 16% of customers.
 - Further investigate the relationship between Fiber optic service and churn.
 
-## Dashboard Preview
-
-![Executive Overview](images/executive-overview.png)
-![Customer & Churn Analysis](images/customer-churn-analysis.png)
-![Customer Risk & Retention](images/customer-risk-retention.png)
-
 ## Note
 
 The high-risk segment is a rule-based segmentation, not a machine-learning prediction model.
